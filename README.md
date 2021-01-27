@@ -1,5 +1,5 @@
 # crud_rest_api
-This is crud rest api with go and 
+This is crud rest api with go and mux
 
 # How To Use:
 1. clone this git
